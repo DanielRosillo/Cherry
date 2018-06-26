@@ -14,11 +14,17 @@ Create solutions trees, triping, map your data and abstract your reality.
 
 The Library requires Java SE Development Kit 10 or High
 
-### Creation
+### Dynamic Structures !!!
 
 ```
+//("STATE",COST)
 var origin = new Node("A", 0.0);
+//(ROOT,"OBJETIVE",NAME)
 var tree = new Tree(origin, "N", " TEST");
+
+//Last in first out, list!
+var list = new Lifo<>();
+
 ```
 
 ## Authors
