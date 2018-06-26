@@ -5,7 +5,7 @@
 
 ## Description
 
-Cree arboles de soluciones, recorralos, mape sus datos y abstraiga su realidad.
+Create solutions trees, triping, map your data and abstract your reality.
 
 ### Requirements
 
