@@ -1,4 +1,5 @@
-###Cherry Tree
+##Cherry Tree
+
 ![publicacion2](https://user-images.githubusercontent.com/23446483/41886301-67180e3a-78c1-11e8-8049-da60148c5373.jpg)
 
 ## Getting Started
@@ -19,7 +20,7 @@ Tree tree = new Tree(origin, "N", " TEST");
 
 * **Daniel Rosillo** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/DanielRosillo) who participated in this project.
 
 ## License
 
