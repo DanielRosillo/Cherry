@@ -19,7 +19,7 @@ Tree tree = new Tree(origin, "N", " TEST");
 
 ## Authors
 
-* **Daniel Rosillo** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Daniel Rosillo** - *Initial work* -
 
 See also the list of [contributors](https://github.com/DanielRosillo) who participated in this project.
 
