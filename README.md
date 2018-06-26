@@ -1,4 +1,3 @@
 ### Cherry Tree
 ### Java JDK 10
-
-![publicacion2](https://user-images.githubusercontent.com/23446483/41852749-9dab17f0-7851-11e8-8f5a-eb3e2415f7ef.jpg)
+![36222735_1731650116889496_8672753406986682368_n](https://user-images.githubusercontent.com/23446483/41886236-26f7ba94-78c1-11e8-963a-cae5eccb6394.jpg)
