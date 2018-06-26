@@ -1,10 +1,11 @@
-##Cherry Tree
+
+## Cherry Tree´s
 
 ![publicacion2](https://user-images.githubusercontent.com/23446483/41886301-67180e3a-78c1-11e8-8049-da60148c5373.jpg)
 
 ## Getting Started
 
-Cree arboles de soluciones, recorralos, mapea su datos y abstrae la realidad.
+Cree arboles de soluciones, recorralos, mape sus datos y abstrae la realidad.
 
 ### Prerequisites
 
