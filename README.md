@@ -5,15 +5,14 @@
 
 ## Description
 
-Cree arboles de soluciones, recorralos, mape sus datos y abstrae la realidad.
+Cree arboles de soluciones, recorralos, mape sus datos y abstraiga su realidad.
 
 ### Requirements
 
 ### Power by Java JDK 10
 ![36222735_1731650116889496_8672753406986682368_n](https://user-images.githubusercontent.com/23446483/41886236-26f7ba94-78c1-11e8-963a-cae5eccb6394.jpg)
 
-The Library requires [Java SE Development Kit 7]
-(http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html) or High
+The Library requires Java SE Development Kit 10 or High
 
 ### Creation
 
