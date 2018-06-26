@@ -17,13 +17,13 @@ The Library requires Java SE Development Kit 10 or High
 ### Dynamic Structures !!!
 
 ```
-//("STATE",COST)
+//("state",cost)
 var origin = new Node("A", 0.0);
-//(ROOT,"OBJETIVE",NAME)
+//(root,objective,name)
 var tree = new Tree(origin, "N", " TEST");
 
 //Last in first out, list!
-var list = new Lifo<>();
+var list = new Lifo<Node>();
 
 ```
 
