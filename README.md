@@ -1,3 +1,5 @@
+## This project is old, the full version with the A-Star algorithm, see..
+## https://github.com/DanielRosillo/Cherry-Star
 
 ## Cherry Tree´s
 
